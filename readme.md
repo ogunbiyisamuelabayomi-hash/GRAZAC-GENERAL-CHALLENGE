@@ -64,3 +64,14 @@ You can view the complete API documentation here:
 (https://documenter.getpostman.com/view/56988360/2sBYB2rnU7)
 
 ``
+## Deployment
+
+The API is deployed and publicly accessible.
+
+### Live API
+
+https://grazac-general-challenge.onrender.com
+
+### Example Endpoint
+
+https://grazac-general-challenge.onrender.com/api/classify-number?number=371
